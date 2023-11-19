@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+#founders{
+    width:400;
+    height:400;
+}
+.intro{
+    display: flex;
+}
+.about{
+    padding-left: 20px;
+    padding-top: 120px;
+}
